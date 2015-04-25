@@ -57,7 +57,7 @@ nav div ul li a:hover{
     height: 652px;
     margin: 50px auto;
     position: relative;    
-    background:url("https://github.com/ShaunaW/Noodle-Restaurant/blob/master/images/BG3.jpg?raw=true" ) 50% 0px no-repeat fixed;
+    background:url("../images/BG3.jpg" ) 50% 0px no-repeat fixed;
     background-size: 1349px 652px;
     
 }
