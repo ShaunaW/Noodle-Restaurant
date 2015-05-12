@@ -168,7 +168,7 @@ nav div ul li a:hover {
     width: 60px;    
 }
 #cart .cartTable .rmb::before {
-    content:"£¤";
+    content:"Â£Â¤";
     color: #A09F9F;
 } 
 #cart .cartTable .count .minus, #cart .cartTable .count .plus {
@@ -181,7 +181,7 @@ nav div ul li a:hover {
     border: 1px solid #DDDDDD;
 }
 
-#cart .cartTable input {
+#cart .cartTable .count .input {
     margin: 0;
     paddding: 0;
     width: 30px;
